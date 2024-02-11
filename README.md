@@ -5,6 +5,8 @@
 
 **Date:** February 11, 2024
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E6smaTjMHv6MAKTu_eH90ASOj2AxNLVc?usp=sharing)
+
 **Project Summary:**
 
 This project explores the application of machine learning for lung cancer detection, utilizing scikit-learn's Logistic Regression, Support vector machines, Bernoulli Naive Bayes, Gaussian Naive Bayes, and Random Forest models. The project demonstrates deployemnt of an visual app on Google Colab using npx and Streamlit, creating a user-friendly web interface for model inference.
@@ -17,12 +19,12 @@ This project explores the application of machine learning for lung cancer detect
 * Front-End Framework: Streamlit
 
 **Key Findings:**
-the accuracy of the 5 models are as follows:
-The Accuracy of Logistic Regression is 87.5 %
-The Accuracy of Support Vector Machine is 85.71 %
-The Accuracy of Gaussian Naive Bayes is 91.07 %
-The Accuracy of Random Forest Classifier is 85.71 %
-The Accuracy of Bernoulli Naive Bayes is 91.07 %
+*the accuracy of the 5 models are as follows:
+*The Accuracy of Logistic Regression is 87.5 %
+*The Accuracy of Support Vector Machine is 85.71 %
+*The Accuracy of Gaussian Naive Bayes is 91.07 %
+*The Accuracy of Random Forest Classifier is 85.71 %
+*The Accuracy of Bernoulli Naive Bayes is 91.07 %
 
 **Project Structure:**
 
