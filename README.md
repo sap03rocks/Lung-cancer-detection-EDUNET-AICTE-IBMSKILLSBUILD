@@ -19,12 +19,12 @@ This project explores the application of machine learning for lung cancer detect
 * Front-End Framework: Streamlit
 
 **Key Findings:**
-*the accuracy of the 5 models are as follows:
-*The Accuracy of Logistic Regression is 87.5 %
-*The Accuracy of Support Vector Machine is 85.71 %
-*The Accuracy of Gaussian Naive Bayes is 91.07 %
-*The Accuracy of Random Forest Classifier is 85.71 %
-*The Accuracy of Bernoulli Naive Bayes is 91.07 %
+* the accuracy of the 5 models are as follows:
+* The Accuracy of Logistic Regression is 87.5 %
+* The Accuracy of Support Vector Machine is 85.71 %
+* The Accuracy of Gaussian Naive Bayes is 91.07 %
+* The Accuracy of Random Forest Classifier is 85.71 %
+* The Accuracy of Bernoulli Naive Bayes is 91.07 %
 
 **Project Structure:**
 
